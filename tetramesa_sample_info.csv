@@ -1,0 +1,63 @@
+acc. num.,Sequence_ID,Organism,country,Latitude,Longitude,host,collected_by,collection_date,sex,Fwd_primer_seq,Rev_primer_seq
+MT549821,GFS_2019_00019,Tetramesa sp. 4,"South Africa, Burnt Kraal, Grahamstown, Eastern Cape",-33.28173,26.48638,Eragrostis curvula,Guy Sutton,2019,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549822,GFS_2019_00030,Tetramesa sp. 5,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2019,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549823,GFS_2019_00035,Tetramesa sp. 4,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2019,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549824,GFS_2019_00039,Tetramesa sp. 4,"South Africa, Burnt Kraal, Grahamstown, Eastern Cape",-33.28173,26.48638,Eragrostis curvula,Guy Sutton,2019,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549825,GFS_2019_00041,Tetramesa sp. 4,"South Africa, Burnt Kraal, Grahamstown, Eastern Cape",-33.28173,26.48638,Eragrostis curvula,Guy Sutton,2019,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549826,GFS_2019_00043,Tetramesa sp. 5,"South Africa, Glen Muir, East London, Eastern Cape",-32.87684,28.09499,Eragrostis curvula,Guy Sutton,2019,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549827,GFS_2019_00069,Tetramesa sp. 4,"South Africa, Burnt Kraal, Grahamstown, Eastern Cape",-33.28173,26.48638,Eragrostis curvula,Guy Sutton,2019,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS_2019_79,Tetramesa sp. 5,"South Africa, Burnt Kraal, Grahamstown, Eastern Cape",-33.28173,26.48638,Eragrostis curvula,Guy Sutton,2019,,,
+,GFS_2020_0003,Tetramesa sp. 4,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,,
+MT549828,GFS_2020_00015,Tetramesa sp. 4,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS_2020_43,Tetramesa sp. 1,"South Africa, Valhalla, East London, Eastern Cape",-32.87191,28.08378,Sporobolus pyramidalis,Guy Sutton,2020,,,
+MT549829,GFS_2020_00053,Tetramesa sp. 1,"South Africa, Valhalla, East London, Eastern Cape",-32.87191,28.08378,Sporobolus pyramidalis,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00054,Eurytomidae - possible Eurytoma sp.?,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549830,GFS_2020_00055,Tetramesa sp. 4,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549831,GFS_2020_00079,Tetramesa sp. 5,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549832,GFS_2020_00083,Tetramesa sp. 5,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549833,GFS_2020_00085,Tetramesa sp. 5,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,male,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS_2020_87,No morphological ID,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,,
+MT549834,GFS_2020_00091,Tetramesa sp. 4,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,female,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00102,Tetramesa sp. 4,"South Africa, Glen Muir, East London, Eastern Cape",-32.87684,28.09499,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549835,GFS_2020_00111,Tetramesa sp. 5,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,female,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549836,GFS_2020_00116,Tetramesa sp. 1,"South Africa, Valhalla, East London, Eastern Cape",-32.87191,28.08378,Sporobolus pyramidalis,Guy Sutton,2020,female,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549837,GFS_2020_00120,Tetramesa sp. 5,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,female,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549838,GFS_2020_00130,Tetramesa sp. 4,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,female,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00132,Tetramesa sp. 5,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549839,GFS_2020_00152,Tetramesa sp. 1,"South Africa, Valhalla, East London, Eastern Cape",-32.87191,28.08378,Sporobolus pyramidalis,Guy Sutton,2020,male,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+MT549840,GFS_2020_00155,Tetramesa sp. 4,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00184,Tetramesa sp. 4,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00196,Tetramesa sp. 5,"South Africa, Glen Muir, East London, Eastern Cape",-32.87684,28.09499,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00233,Tetramesa sp. 4,"South Africa, Glen Muir, East London, Eastern Cape",-32.87684,28.09499,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00492,Tetramesa sp. 4,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Eragrostis curvula,Guy Sutton,2020,female,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00528,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS_2020_545,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,,
+,GFS-2020-00554,Tetramesa sp. 4,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Eragrostis curvula,Guy Sutton,2020,male,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00555,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00562,Tetramesa sp. 5,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00563,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00574,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00576,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00595,Tetramesa sp. 5,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Eragrostis curvula,Guy Sutton,2020,male,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00606,Tetramesa sp. 5,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS_2020_00614,Tetramesa sp. 4,"South Africa, Baakens River (Targetkloof), Port Elizabeth, Eastern Cape",-33.96861,25.59229,Eragrostis curvula,Guy Sutton,2020,,,
+,GFS-2020-00626,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00638,Tetramesa sp. 5,"South Africa, Glen Muir, East London, Eastern Cape",-32.87684,28.09499,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00645,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00667,Tetramesa sp. 4,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Eragrostis curvula,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00670,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00680,Tetramesa sp. 4,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Eragrostis curvula,Guy Sutton,2020,female,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00702,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS-2020-00720,Tetramesa sp. 7,"South Africa, Mondplaas, Eastern Cape",-33.96302,24.95448,Hyparrhenia hirta,Guy Sutton,2020,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS052,Tetramesa sp. 3,"South Africa, Mkuze, KwaZulu Natal",-27.62214,32.02467,Sporobolus pyramidalis,Guy Sutton,2017,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,GFS029,Tetramesa sp. 3,"South Africa, Nylsvlei, Limpopo",-24.576,28.64316,Sporobolus pyramidalis,Guy Sutton,2017,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,SPY-KZN-006,Eurytomidae sp.?,"South Africa, Westwood Mall, Durban, KwaZulu Natal",-29.82913,30.95911,Sporobolus pyramidalis,Guy Sutton,2017,,,
+MT549841,SPY_KZN_060,Tetramesa sp. 1,"South Africa, Mkuze, KwaZulu Natal",-27.62214,32.02467,Sporobolus pyramidalis,Guy Sutton,2017,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,SPY_KZN_62,Eurytomidae sp.?,"South Africa, Westwood Mall, Durban, KwaZulu Natal",-29.82913,30.95911,Sporobolus pyramidalis,Guy Sutton,2018,,,
+MT549842,SPY_KZN_064,Tetramesa sp. 1,"South Africa, Westwood Mall, Durban, KwaZulu Natal",-29.82913,30.95911,Sporobolus pyramidalis,Guy Sutton,2017,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,SPY_KZN_68,Eurytomidae sp.?,"South Africa, Westwood Mall, Durban, KwaZulu Natal",-29.82913,30.95911,Sporobolus pyramidalis,Guy Sutton,2017,,,
+MT549843,SPY_KZN_071,Tetramesa sp. 2,"South Africa, Mkuze, KwaZulu Natal",-27.62214,32.02467,Sporobolus pyramidalis,Guy Sutton,2017,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
+,SPY_KZN_89,Eurytomidae sp.?,"South Africa, Mkuze, KwaZulu Natal",-27.62214,32.02467,Sporobolus pyramidalis,Guy Sutton,2017,,,
+,SPY_KZN_94,Eurytomidae sp.?,"South Africa, Mkuze, KwaZulu Natal",-27.62214,32.02467,Sporobolus pyramidalis,Guy Sutton,2017,,,
+,SPY_MPA_095,Eurytomidae sp.?,"Imvelo Forest, White River, Mpumalanga",-25.2168,30.9973,Sporobolus pyramidalis,Guy Sutton,2017,,,
+MT549844,SPY_LMP_032,Tetramesa sp. 1,"South Africa, Nylsvlei, Limpopo",-24.576,28.64316,Sporobolus pyramidalis,Guy Sutton,2017,,5-CCTGGTTCTTTRATTGGTAATGATC-3,5-TAAACTTCTGGATGTCCAAAAA-3
